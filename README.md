@@ -1,1 +1,1 @@
-[Stop The Genocide](banner.png)
+![Stop The Genocide](banner.png)
